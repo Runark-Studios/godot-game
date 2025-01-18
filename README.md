@@ -4,4 +4,4 @@ Este es un proyecto de el estudio "Runark Studios", por lo tanto sigue las linea
 3-Se usa github para compartir el codigo para más seguridad
 4-Se usa Discord como único metodo de comunicación sobre el proyecto
 
-*Para más comunicación, favor comunicarse con el director del área de programación a traves de discord*
+*Para más información, favor comunicarse con el director del área de programación a traves de discord*
